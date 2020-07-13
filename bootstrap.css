@@ -1,0 +1,284 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.fist-form {
+  background: linear-gradient(
+      to bottom,
+      rgba(92, 77, 66, 0.8) 0%,
+      rgba(92, 77, 66, 0.8) 100%
+    ),
+    url(https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  justify-content: space-between;
+  display: flex;
+  justify-content: 101%;
+  height: 60px;
+  margin: 0px;
+  padding: 35px 64px;
+}
+.naw h3 {
+  color: rgba(219, 202, 189, 0.8);
+  margin: 0px;
+  margin-left: 90px;
+  padding: 0px;
+  font-size: 26px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.naw a {
+  color: rgba(219, 202, 189, 0.8);
+  font-size: 21px;
+  text-decoration: none;
+  padding-left: 20px;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin-right: 12px;
+  padding-top: 25px;
+}
+.naw :hover {
+  color: white;
+}
+.naw-right {
+  margin-right: 70px;
+}
+.first-form-second {
+  text-align: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.first-form-second {
+  text-align: center;
+  flex-direction: column;
+  display: flex;
+  margin: 0 340px;
+}
+
+.first-form-second h2 {
+  font-size: 70px;
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+  padding-top: 100px;
+  margin: 50px 0 0 0;
+}
+
+.line1 {
+  width: 70px;
+  height: 4px;
+  background-color: tomato;
+  border-radius: 30px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.first-form-second p {
+  font-size: 30px;
+  color: rgba(219, 202, 189, 0.8);
+  margin: 0 50x;
+  font-weight: 300;
+  padding: 0px 25px;
+}
+
+.button1 {
+  background-color: rgb(244, 98, 58);
+  width: 220px;
+  height: 45px;
+  text-align: center;
+  border-radius: 47px;
+  margin: 35px auto;
+  padding-top: 27px;
+}
+.button1 a {
+  color: white;
+  text-decoration: none;
+  margin-top: 30px;
+  font-weight: 600;
+  font-size: 17px;
+  font-family: sans-serif;
+}
+
+.second-form {
+  background-color: rgb(244, 98, 58);
+  width: 100%;
+  height: 630px;
+  text-align: center;
+  color: white;
+}
+
+.second-form h3 {
+  font-family: sans-serif;
+  font-size: 45px;
+  padding-top: 170px;
+  margin: 0px;
+  font-weight: 500;
+}
+
+.line2 {
+  width: 65px;
+  height: 4px;
+  background-color: white;
+  border-radius: 30px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.para p {
+  color: rgba(219, 202, 189, 0.8);
+  font-size: 25px;
+  margin: 0px 345px;
+  height: 100px;
+  padding-top: 30px;
+}
+
+.button2 {
+  background-color: white;
+  width: 210px;
+  height: 51px;
+  text-align: center;
+  border-radius: 47px;
+  margin: 0px auto;
+  padding-top: 26px;
+}
+
+.button2 a {
+  color: black;
+  text-decoration: none;
+  margin-top: 30px;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.third-form {
+  padding-top: 95px;
+  text-align: center;
+  height: 590px;
+}
+.third-form h3 {
+  font-size: 42px;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  align-items: center;
+}
+.icons {
+  padding-top: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 25px 130px;
+}
+.icons i {
+  color: rgb(241, 81, 22);
+  text-align: center;
+  font-size: 80px;
+}
+.icons h4 {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 34px;
+  color: black;
+  font-weight: 700;
+  margin: 13px;
+  padding-top: 20px;
+}
+.icons p {
+  color: rgba(87, 84, 82, 0.8);
+  font-size: 24px;
+  margin-top: 10px;
+}
+.box {
+  margin: 0px 30px;
+}
+
+.forth-form {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 615px;
+}
+.images {
+  width: 33.33%;
+  height: 230x;
+}
+.images img {
+  width: 100%;
+  height: 100%;
+}
+.fifth-form {
+  background-color: #343a40;
+  width: 100%;
+  height: 460px;
+}
+.fifth-form h3 {
+  margin: 0px;
+  text-align: center;
+  font-size: 45px;
+  color: white;
+  padding-top: 130px;
+  font-family: sans-serif;
+}
+.button3 {
+  background-color: white;
+  width: 240px;
+  height: 50px;
+  text-align: center;
+  border-radius: 47px;
+  margin: 35px auto;
+  padding-top: 28px;
+}
+.button3 a {
+  color: black;
+  text-decoration: none;
+  margin-top: 40px;
+  font-weight: 700;
+  font-size: 19px;
+  font-family: sans-serif;
+}
+
+.six-form {
+  height: 100vh;
+  text-align: center;
+  margin: 0px 150px;
+}
+.six-form h3 {
+  text-align: center;
+  font-size: 40px;
+  padding-top: 120px;
+  font-family: sans-serif;
+  font-weight: 400;
+  margin: 10px;
+}
+.six-form p {
+  font-size: 25px;
+  color: rgba(53, 52, 51, 0.8);
+  margin: 0 50x;
+  font-weight: 300;
+  padding: 35px;
+  margin: 0px 190px;
+}
+.end {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 160px;
+  color: rgba(53, 52, 51, 0.8);
+  font-size: 20px;
+}
+.contact {
+  font-size: 25px;
+  padding-top: 28px;
+}
+.contact a {
+  color: black;
+  text-decoration: none;
+}
